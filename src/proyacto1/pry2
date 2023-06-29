@@ -1,0 +1,26 @@
+
+
+int main()
+{
+    //aqui declaramos la variable:
+int paseos = 2;
+paseos =72;
+paseos = 75;
+string nombre ("mairon");
+//aqui mostramos variable en pantalla:
+print(paseos);
+print(nombre);
+print("Hola mundo");
+} 
+
+
+
+
+
+
+
+
+
+
+
+
